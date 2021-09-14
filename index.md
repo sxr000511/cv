@@ -7,7 +7,7 @@ email:
 phone: 
   (+86)155-460-18969
 ---
-<img src='https://github.com/sxr000511/cv/blob/master/photo.jpg?raw=true' style='float:right;'/>
+<!-- <img src='https://github.com/sxr000511/cv/blob/master/photo.jpg?raw=true' style='float:right;'/> -->
 # Xinran Song
 
 <!--
@@ -46,15 +46,21 @@ Vancouver, CA
 
 ## Publications
 
-### **Run-Time Performance Assessment for Range-based Multi-target Localization** (under reviewed)
+### **Run-Time Performance Assessment for Range-based Multi-target Localization** (under review)
 Dayang Sun, **Xinran Song**.<br> 
 
 
-### **Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (under reviewed)
+### **Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (under review)
 Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
 
 
 ## Project/Intern Experience
+
+### **Localization Performance Assessment in Wireless Sensor Network**
+Department of Communication Engineering `2019.9 - present`
+_Research Assistant_  Supervisor: Dr.Dayang Sun
+Research mainly focuses on putting forward new approaches in localization accuracy assessment field. <br>
+My work contains enhancing algorithm models, implementing experiments of diffierent topologies in MATLAB, and writing theses in LaTex.
 
 ### **The design and research of the anti-jitter laser communication system on the basis of pulse dialing modulation** `2020.5 - 2021.9`
 

@@ -7,7 +7,9 @@ email:
 phone: 
   (+86)155-460-18969
 ---
-![](/photo.jpg)
+<div align="right">
+<img src="/photo.jpg"  height="330" width="495">
+ </div>
 # Xinran Song
 
 <!--

@@ -1,14 +1,13 @@
 ---
 layout: cv
 title: Xinran Song
-![](/photo.jpg)
 email:
   url: http://songxr0511@hotmail.com
   text: songxr0511@hotmail.com
 phone: 
   (+86)155-460-18969
 ---
-
+![](/photo.jpg)
 # Xinran Song
 
 <!--

@@ -7,8 +7,8 @@ email:
 phone: 
   (+86)155-460-18969
 ---
-# Xinran Song
 <img src='https://raw.githubusercontent.com/sxr000511/cv/master/photo.jpg' style='float:right;'/>
+# Xinran Song
 
 <!--
 include contact information from the front matter

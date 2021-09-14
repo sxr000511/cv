@@ -8,7 +8,7 @@ phone:
   (+86)155-460-18969
 ---
 <div align="right">
-<img src="/photo.jpg"  height="330" width="495">
+<img src="/photo.jpg"  height="100" width="50">
  </div>
 # Xinran Song
 

@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xinran Song
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://songxr0511@hotmail.com
+  text: songxr0511@hotmail.com
+phone:
+  text: (+86)155-460-18969
 ---
 
-# Wode **Ni**
+# Xinran Song
 
 <!--
 include contact information from the front matter
@@ -23,136 +22,71 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Jilin University** `2018.9 - present`
 
 ```
-Pittsburgh, PA
+Changchun,Jilin
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- B.Eng in Communication Engineering
+- Cumulative GPA: 91.47/100    3.84/4
+- Ranking: 4/161   Top 3%
+- Selected Courses: Principle of Electronic Measurement : 99   Electromagnetic Fields & Magnetic Waves : 99
+                    Information Theory : 96   Random Signal Processing : 94    Digital Signal Processing : 94
+                    Digital Image Processing : 93     Eletronic Circut : 93
 
-### **Columbia University** `2016.9 - 2018.5`
 
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **University of British Columbia** `2019.7 - 2019.8`
 
 ```
-Carlisle, PA
+Vancouver, CA
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Summer School, _Electrical and Computer Engineering_
 
 ## Publications
 
-### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21), to appear._ <br>
+### Submitted: ** Run-Time Performance Assessment for Range-based Multi-target Localization **
+Dayang Sun, **Xinran Song**.<br> 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### Submitted: ** Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization**
+Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+## Project/Intern Experience
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
+### **The design and research of the anti-jitter laser communication system on the basis of pulse dialing modulation** `2020.5 - 2021.9`
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+_Member_<br>
+- College Students' Science and Technology Innovation Project
+- Provincial Project
+- Project Outcome:  One patent being reviewed
+In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.
+I designed the circut of this laser communication system,and was responsible for the whole system implementation.
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+### Internship: ** Front End Web  Developer**`2021.1 - 2021.3`
 
+_Intern_  _Heilongjiang Post Yitong Information Network Co., Ltd_<br> 
+- Developed front end web form pages
+- Responsible for the web maintaince
 ---
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
-
-Hwei-Shin Harriman (Olin College of Engineering, independent research) `CMU, 2021` <br>
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
----
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+## Awards
+University Excellent Student  `2020`<br>
+China Undergraduate Mathematical Contest in Modeling   _Provincial level first award_ `2020` <br>
+First-class Scholarship `2020，2019` <br>
+Second-Class Scholarship `2018` <br>
 
 
-## Service
+## Programming Skills
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI 2021` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+Programming Language: Matlab, JavaScript, LaTex <br>
+
+## Language Skills
+
+TOEFL: 94 (28,24,20,22)
+
 
 <!-- ### Footer
 

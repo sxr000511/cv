@@ -74,8 +74,9 @@ I designed the circut of this laser communication system,and was responsible for
 ### **Front End Web  Developer**`2021.1 - 2021.3`
 
 _Intern_ ， Heilongjiang Post Yitong Information Network Co., Ltd <br> 
+- Participated in the development of big screen report project.
 - Developed front end web form pages
-- Responsible for the web maintaince
+- Responsible for the website maintaince
 
 
 ## Awards

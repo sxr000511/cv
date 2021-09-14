@@ -64,7 +64,7 @@ _Member_<br>
 In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.
 I designed the circut of this laser communication system,and was responsible for the whole system implementation.
 
-### Internship: ** Front End Web  Developer**`2021.1 - 2021.3`
+### ** Front End Web  Developer**`2021.1 - 2021.3`
 
 _Intern_  _Heilongjiang Post Yitong Information Network Co., Ltd_<br> 
 - Developed front end web form pages

@@ -42,15 +42,15 @@ Changchun,Jilin
 Vancouver, CA
 ```
 
-- Summer School,  _Electrical and Computer Engineering_
+- Summer School ，  _Electrical and Computer Engineering_
 
 ## Publications
 
-### **Run-Time Performance Assessment for Range-based Multi-target Localization** (submitted)
+### **Run-Time Performance Assessment for Range-based Multi-target Localization** (under reviewed)
 Dayang Sun, **Xinran Song**.<br> 
 
 
-### **Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (submitted)
+### **Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (under reviewed)
 Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
 
 
@@ -61,13 +61,13 @@ Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br>
 _Member_<br>
 - College Students' Science and Technology Innovation Project
 - Provincial Project
-- Project Outcome:  One patent being reviewed
+- Project Outcome:  One patent being reviewed.<br> 
 In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.<br> 
 I designed the circut of this laser communication system,and was responsible for the whole system implementation.
 
 ### **Front End Web  Developer**`2021.1 - 2021.3`
 
-_Intern_  Heilongjiang Post Yitong Information Network Co., Ltd <br> 
+_Intern_ ， Heilongjiang Post Yitong Information Network Co., Ltd <br> 
 - Developed front end web form pages
 - Responsible for the web maintaince
 

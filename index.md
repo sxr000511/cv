@@ -5,8 +5,8 @@ email:
   url: http://songxr0511@hotmail.com
   text: songxr0511@hotmail.com
 phone:
-    url: (+86)155-460-18969
-    text: (+86)155-460-18969
+  url: (+86)155-460-18969
+  
 ---
 
 # Xinran Song
@@ -30,9 +30,9 @@ Changchun,Jilin
 ```
 
 - B.Eng in Communication Engineering
-- Cumulative GPA: 91.47/100    3.84/4
-- Ranking: 4/161    Top 3%
-- Selected Courses: Principle of Electronic Measurement : 99    &nbsp;Electromagnetic Fields & Magnetic Waves : 99 <br> 
+- Cumulative GPA: 91.47/100, 3.84/4
+- Ranking: 4/161 , Top 3%
+- Selected Courses: Principle of Electronic Measurement : 99 , &nbsp;Electromagnetic Fields & Magnetic Waves : 99 <br> 
                     Information Theory : 96    Random Signal Processing : 94    Digital Signal Processing : 94 <br> 
                     Digital Image Processing : 93    Eletronic Circut : 93 
 

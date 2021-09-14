@@ -4,8 +4,7 @@ title: Xinran Song
 email:
   url: http://songxr0511@hotmail.com
   text: songxr0511@hotmail.com
-phone:
-  text: (+86)155-460-18969
+phone: (+86)155-460-18969
 ---
 
 # Xinran Song
@@ -30,10 +29,10 @@ Changchun,Jilin
 
 - B.Eng in Communication Engineering
 - Cumulative GPA: 91.47/100    3.84/4
-- Ranking: 4/161   Top 3%
-- Selected Courses: Principle of Electronic Measurement : 99   Electromagnetic Fields & Magnetic Waves : 99
-                    Information Theory : 96   Random Signal Processing : 94    Digital Signal Processing : 94
-                    Digital Image Processing : 93     Eletronic Circut : 93
+- Ranking: 4/161    Top 3%
+- Selected Courses: Principle of Electronic Measurement : 99    Electromagnetic Fields & Magnetic Waves : 99 <br> 
+                    Information Theory : 96    Random Signal Processing : 94    Digital Signal Processing : 94 <br> 
+                    Digital Image Processing : 93    Eletronic Circut : 93 
 
 
 ### **University of British Columbia** `2019.7 - 2019.8`
@@ -42,15 +41,15 @@ Changchun,Jilin
 Vancouver, CA
 ```
 
-- Summer School, _Electrical and Computer Engineering_
+- Summer School,  _Electrical and Computer Engineering_
 
 ## Publications
 
-### Submitted: ** Run-Time Performance Assessment for Range-based Multi-target Localization **
+### ** Run-Time Performance Assessment for Range-based Multi-target Localization ** (submitted)
 Dayang Sun, **Xinran Song**.<br> 
 
 
-### Submitted: ** Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization**
+### ** Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (submitted)
 Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
 
 
@@ -70,11 +69,11 @@ I designed the circut of this laser communication system,and was responsible for
 _Intern_  _Heilongjiang Post Yitong Information Network Co., Ltd_<br> 
 - Developed front end web form pages
 - Responsible for the web maintaince
----
+
 
 ## Awards
 University Excellent Student  `2020`<br>
-China Undergraduate Mathematical Contest in Modeling   _Provincial level first award_ `2020` <br>
+China Undergraduate Mathematical Contest in Modeling    _Provincial level first award_ `2020` <br>
 First-class Scholarship `2020，2019` <br>
 Second-Class Scholarship `2018` <br>
 

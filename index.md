@@ -8,9 +8,8 @@ phone:
   (+86)155-460-18969
 ---
 # Xinran Song
-<div style="float:right">
-![](/photo.jpg)
-</div>
+<img src='/photo.jpg' style='float:right;'/>
+
 <!--
 include contact information from the front matter
 Supported arguments:

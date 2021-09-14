@@ -73,7 +73,7 @@ _Intern_ ， Heilongjiang Post Yitong Information Network Co., Ltd <br>
 
 
 ## Awards
-University Excellent Student  `2020`<br>
+University Outstanding Student  `2020`<br>
 China Undergraduate Mathematical Contest in Modeling ,   _Provincial level first award_ `2020` <br>
 First-class Scholarship `2020，2019` <br>
 Second-Class Scholarship `2018` <br>

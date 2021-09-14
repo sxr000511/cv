@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Xinran Song
+![](/photo.jpg)
 email:
   url: http://songxr0511@hotmail.com
   text: songxr0511@hotmail.com

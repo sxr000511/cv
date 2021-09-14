@@ -56,9 +56,9 @@ Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br>
 
 ## Project/Intern Experience
 
-### **Localization Performance Assessment in Wireless Sensor Network**
-Department of Communication Engineering `2019.9 - present`
-_Research Assistant_  Supervisor: Dr.Dayang Sun
+### **Localization Performance Assessment in Wireless Sensor Network** `2019.9 - present`
+Department of Communication Engineering<br>
+_Research Assistant_ ，  Supervisor: Dr.Dayang Sun<br>
 Research mainly focuses on putting forward new approaches in localization accuracy assessment field. <br>
 My work contains enhancing algorithm models, implementing experiments of diffierent topologies in MATLAB, and writing theses in LaTex.
 

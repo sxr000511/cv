@@ -2,8 +2,8 @@
 layout: cv
 title: Xinran Song
 email:
-  url: http://songxr0511@hotmail.com
-  text: songxr0511@hotmail.com
+  url: 240217843@qq.com
+  text: 240217843@qq.com
 phone: 
   (+86)155-460-18969
 ---
@@ -46,6 +46,9 @@ Vancouver, CA
 
 ## Publications
 
+### **A Multi-class Dataset Expansion Method for Wi-Fi-based Fall Detection** 
+Xin Wen, **Xinran Song**.<br> 
+
 ### **Run-Time Performance Assessment for Range-based Multi-target Localization** (under review)
 Dayang Sun, **Xinran Song**.<br> 
 
@@ -56,7 +59,15 @@ Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br>
 
 ## Project/Intern Experience
 
-### **Localization Performance Assessment in Wireless Sensor Network** `2019.9 - present`
+### **Exploration of Fall Detection Using Wi-Fi** `2021.9 - 2022.5`
+_Member_<br>
+- Final Year Project
+- Project Outcome:  conference paper 'A Multi-class Dataset Expansion Method for Wi-Fi-based Fall Detection' <br> 
+Project aims to design and implement a fall detection method with WIFI.<br>
+Project's outcome is a real time falling detection system based on WIFI CSI signal.
+My work are designing detection system, training deep learning classifiers, and conducting experiments.
+
+### **Localization Performance Assessment in Wireless Sensor Network** `2019.9 - 2021.7`
 Department of Communication Engineering<br>
 _Research Assistant_ ，  Supervisor: Dr.Dayang Sun<br>
 Research mainly focuses on putting forward new approaches in localization accuracy assessment field. <br>
@@ -70,6 +81,13 @@ _Member_<br>
 - Project Outcome:  One patent being reviewed.<br> 
 In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.<br> 
 I designed the circut of this laser communication system,and was responsible for the whole system implementation.
+
+### **Softerware Development Engineer**`2022.1 - 2022.6`
+
+_Intern_ ， Huawei Technology Co., Ltd. <br> 
+- Intern in WLAN performance algorithm group
+- Participated in the development of frequency calibration platform
+- Responsible for the establishment of simulation page
 
 ### **Front End Web  Developer**`2021.1 - 2021.3`
 
@@ -88,7 +106,7 @@ Second-Class Scholarship `2018` <br>
 
 ## Programming Skills
 
-Programming Language: Matlab, JavaScript, LaTex <br>
+Programming Language: Matlab, JavaScript, Java, LaTex <br>
 
 ## Language Skills
 

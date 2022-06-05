@@ -22,7 +22,7 @@ Supported arguments:
 
 ## Education
 
-### **Jilin University** `2018.9 - present`
+### **Jilin University** `2018.9 - 2022.7`
 
 ```
 Changchun,Jilin
@@ -44,14 +44,16 @@ Vancouver, CA
 
 - Summer School ，  _Electrical and Computer Engineering_
 
-## Publications
+## Publications and Patents
+
+###  **An anti-jitter laser communication system based on pulse dialing** (Patent)
+**Xinran Song**, Chenlan Lin, Xiangyu Chen.<br> 
 
 ### **A Multi-class Dataset Expansion Method for Wi-Fi-based Fall Detection** 
 Xin Wen, **Xinran Song**.<br> 
 
 ### **Run-Time Performance Assessment for Range-based Multi-target Localization** (under review)
 Dayang Sun, **Xinran Song**.<br> 
-
 
 ### **Localization Accuracy Analysis of Node Perturbation and Boundary Finding Algorithm for Range-Free Localization** (under review)
 Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
@@ -78,7 +80,7 @@ My work contains enhancing algorithm models, implementing experiments of diffier
 _Member_<br>
 - College Students' Science and Technology Innovation Project
 - Provincial Project
-- Project Outcome:  One patent being reviewed.<br> 
+- Project Outcome:  One patent.<br> 
 In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.<br> 
 I designed the circut of this laser communication system,and was responsible for the whole system implementation.
 

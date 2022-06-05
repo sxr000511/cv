@@ -59,7 +59,7 @@ Dayang Sun, **Xinran Song**.<br>
 Dayang Sun, Yitian Zhang, **Xinran Song**, Fengye Hu.<br> 
 
 
-## Project/Intern Experience
+## Project Experience
 
 ### **Exploration of Fall Detection Using Wi-Fi** `2021.9 - 2022.5`
 _Member_<br>
@@ -83,6 +83,8 @@ _Member_<br>
 - Project Outcome:  One patent.<br> 
 In this project, a laser communication system based on pulse dialing modulation is designed to improve the time jitter performance in free space optical communication. The system implements the pulse dialing modulation at the transmitter and the signal decision and error control at the receiver through STM32 MCU programming. The receiver of this system adopts a method of multi-channel reception. The experiment results show that this system is fast, reliable and easy to realize, and its communication distance can reach 10 meters.<br> 
 I designed the circut of this laser communication system,and was responsible for the whole system implementation.
+
+## Intern Experience
 
 ### **Softerware Development Engineer**`2022.1 - 2022.6`
 
